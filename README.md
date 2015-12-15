@@ -38,3 +38,6 @@ code as well.
 
 ### 14/12/2015
 - Finished Module 2: Managing content, events and effects
+
+### 15/12/2015
+- Finished Module 3: Asynchronous operations and Ajax calls
